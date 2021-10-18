@@ -32,3 +32,15 @@ Here are some ideas to get you started:
 </a>
 
 <br />
+
+### About Me 🚀
+🎓 I'm a Data Scientist & Software developer with Master's degree in Computer Science & Engineering (2018). </br>
+👨‍💻 I'm an open source enthusiast & I'm passionate about Python, Machine learning, Web Dev & Dev/Ml-Ops. </br> 
+
+
+### My Experiences 🙌
+- Python & Machine Learning Mentor & Co-organizer ([Rotterdam.ai](https://adasbootcamp.ai/) - Taught Exploratory Data Analysis and Clustering techniques to a diverse group of 25 students. Mentored a student group with their final capstone project.
+- Software Engineer (2013-2016) @ Wipro Technologies, Hyderabad, India. Developed Android and Web applications in .net Visual studio for large-scale FedEx delivery system.
+- Data Scientist (2018-Present) @ OrangeNXT, Rotterdam, Netherlands. 
+
+
