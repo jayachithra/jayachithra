@@ -44,3 +44,6 @@ Here are some ideas to get you started:
 - Data Scientist (2018-Present) @ OrangeNXT, Rotterdam, Netherlands. 
 
 
+![Jaya's github stats](https://github-readme-stats.vercel.app/api?username=jayachithra&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jayachithra.jayachithra)
