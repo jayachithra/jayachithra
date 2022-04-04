@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 <a href="mailto:s.k.jayachithra@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 <a href="https://jayachithra.github.io/jaya.github.io/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
 </a>
