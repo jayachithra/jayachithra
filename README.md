@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### My Experiences 🙌
 - Software Engineer @ Microsoft
-- Python & Machine Learning Mentor & Co-organizer ([Rotterdam.ai](https://adasbootcamp.ai/)) - Taught Exploratory Data Analysis and Clustering techniques to a diverse group of students. Mentored a student group with their final capstone project.
+- Python & Machine Learning Mentor & Co-organizer (2018-2021) @ [Rotterdam.ai](https://adasbootcamp.ai/)
 - Data Scientist (2018-2022) @ OrangeNXT, Rotterdam, Netherlands.
 - Software Engineer (2013-2016) @ Wipro Technologies, Hyderabad, India. Developed Android and Web applications in .NET Visual studio and Xamarin.
  
