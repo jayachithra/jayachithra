@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🎓 I'm a Data Scientist & Software developer with Master's degree in Computer Science & Engineering (2018). </br>
+🎓 I'm a Data Scientist & Software Engineer with Master's degree in Computer Science & Engineering (2018). </br>
 👨‍💻 I'm an open source enthusiast & I'm passionate about building cloud applications & Dev/ML-Ops. </br> 
 
 
